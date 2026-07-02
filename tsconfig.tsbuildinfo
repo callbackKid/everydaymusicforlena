@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/data.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/about.tsx","./src/components/admin.tsx","./src/components/feedback.tsx","./src/components/listenbuttons.tsx","./src/components/videoembed.tsx","./src/lib/songs.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
